@@ -14,7 +14,6 @@
 <h2>Web Application UI's</h2>
 ![4a](https://github.com/Nethmee5/Health-care-management-system/assets/59769437/a1f91198-5e7a-4be3-ad7a-bcb3d7b8b37d)
 ![5](https://github.com/Nethmee5/Health-care-management-system/assets/59769437/35b5a8fb-32c9-4eb0-8d0f-2a627d1484ef)
-![Uploading 6.png…]()
 ![7](https://github.com/Nethmee5/Health-care-management-system/assets/59769437/7630734b-73c7-44ed-8c7b-975925e574e7)
 ![8](https://github.com/Nethmee5/Health-care-management-system/assets/59769437/158cd230-22bf-4ac0-b0ee-c1aed23528cd)
 ![9](https://github.com/Nethmee5/Health-care-management-system/assets/59769437/744c0a61-3e55-46c0-aa80-05382cec6f56)
