@@ -4,6 +4,7 @@
 
 <p>The Web Application can be used in every hospital with easier access, and it can be used by Doctors, Nurses, and Patients in any hospital system around the country. The application has features for searching, modifying, and editing details in the system, viewing channeling status, patient Report generation and billing process.</p>
 
+
 <h2>Web Application UI's</h2>
 
 ![4a](https://github.com/Nethmee5/Health-care-management-system/assets/59769437/2bc43a5e-ce2c-4e9d-8af8-1b6b1be51c45)
@@ -21,4 +22,8 @@
 ![1](https://github.com/Nethmee5/Health-care-management-system/assets/59769437/053c26f9-b551-400b-81c2-c6658ef98bd7)
 ![2](https://github.com/Nethmee5/Health-care-management-system/assets/59769437/28c85b30-12c2-4dd3-b342-fb760e865256)
 ![3](https://github.com/Nethmee5/Health-care-management-system/assets/59769437/14d40130-4fa5-4016-9fee-fbfce4639196)
+
+<h2>Website Map</h2>
+![Screenshot 2024-04-16 172725](https://github.com/Nethmee5/Health-care-management-system/assets/59769437/0d2efdad-0793-4685-b458-27a65c470153)
+
 
