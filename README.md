@@ -12,8 +12,8 @@
 ![8](https://github.com/Nethmee5/Health-care-management-system/assets/59769437/afbdcc44-b74c-4d58-ace8-38b7d5271134)
 ![9](https://github.com/Nethmee5/Health-care-management-system/assets/59769437/95137bb9-027b-45c1-82a3-7cc4d8017d42)
 
+![Screenshot 2024-04-16 172725](https://github.com/Nethmee5/Health-care-management-system/assets/59769437/61122a28-324f-4e5e-98ba-a1ab1a6c175e)
 
-![Uploading Screenshot 2024-04-16 172725.png…]()
 
 <p>Healthcare is the only sector that frequently deals with emergency situations. Technology is transforming healthcare service for developing mobile apps. That is why people are working with technology for the purpose of their respective healthcare needs. Today people tend to do their important activities through smartphones. Mobile app healthcare system is mainly focusing patients and their treatments. Patients can fix appointments, search reports, see their health status and communicate with doctors. </p>
 
